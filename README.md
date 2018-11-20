@@ -7,3 +7,5 @@ File containing the cleaned string
 File that converts the string in context.txt into a pdf
 ## test.pdf
 Output of test.py
+## Resources to check later
+https://gist.github.com/perrygeo/ee7c65bb1541ff6ac770
